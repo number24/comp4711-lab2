@@ -8,6 +8,14 @@ Addition will be newest first.
 ## [FIRST MATE] - Braden D'Eith  
 
 ## 2017-01-20 
+### Added
+- Added comment for random() quote function
+
+## 2017-01-20 
+### Added
+- Added random quote page /welcome/random
+
+## 2017-01-20 
 ### Resolved
 - merge conflicts in changelog 
 
