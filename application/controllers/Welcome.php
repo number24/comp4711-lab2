@@ -11,7 +11,7 @@ class Welcome extends Application
 	}
         
         /**
-         * 
+         * renders the page, selecting a random avatar and quote
          */
         public function random() 
         {
