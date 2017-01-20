@@ -7,7 +7,12 @@ Addition will be newest first.
 ## [CAPTAIN] - Jason Chan  
 ## [FIRST MATE] - Braden D'Eith  
 
-## 2017-0-19 
+## 2017-01-20 
+### Added
+- Added new avatar picture, avatar.jpg
+- Added a new quote to Quotes.php
+
+## 2017-01-19 
 ### Added
 - Change Log
 
