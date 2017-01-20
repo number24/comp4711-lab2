@@ -9,6 +9,10 @@ Addition will be newest first.
 
 ## 2017-0-19 
 ### Added
+- Access to author and quote while mouse over avatar 
+
+## 2017-0-19 
+### Added
 - Change Log
 
 
