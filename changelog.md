@@ -8,6 +8,14 @@ Addition will be newest first.
 ## [FIRST MATE] - Braden D'Eith  
 
 ## 2017-01-20 
+### Resolved
+- merge conflicts in changelog 
+
+## 2017-01-20 
+### Added
+- Access to author and quote while mouse over avatar 
+
+## 2017-01-20 
 ### Added
 - Added new avatar picture, avatar.jpg
 - Added a new quote to Quotes.php
